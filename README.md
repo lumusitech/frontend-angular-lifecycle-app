@@ -6,6 +6,8 @@
 pnpm i
 ```
 
+## For more info about lifecycle hooks on angular go to [doc](https://angular.io/guide/lifecycle-hooks)
+
 Then, run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Build
